@@ -3,7 +3,8 @@ main {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  padding: 60px 0px 150px;
+  padding: 20px 5% 150px;
+  width:100%;
 }
 /* produtos */
 .produto button {
